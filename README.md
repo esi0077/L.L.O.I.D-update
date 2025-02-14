@@ -23,6 +23,9 @@ Admin passord konica
 
 <hr>
 
+Auto update teams anons :
+--
+- idk if it works :(
 
 
 

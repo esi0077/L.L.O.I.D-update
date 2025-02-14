@@ -25,7 +25,7 @@ Admin passord konica
 
 Auto update teams anons :
 --
-- idk if it works :(
+- now you will recieve updates on teams chat
 
 
 
